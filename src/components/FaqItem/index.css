@@ -1,0 +1,34 @@
+/* Write your code here. */
+.List_item {
+  list-style: none;
+  border: 1px solid #9aa5b1;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.FaqItem_card {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+  /* width: 70%; */
+}
+.questionText {
+  font-size: 15px;
+  margin-left: 10px;
+}
+.plusBtn {
+  border: none;
+  background-color: transparent;
+  margin-right: 20px;
+}
+.PlusImg {
+  height: 16px;
+}
+.HLine {
+  margin-right: 12px;
+  margin-left: 12px;
+}
+.answerText {
+  font-size: 12px;
+  margin-left: 10px;
+  color: #52606d;
+}

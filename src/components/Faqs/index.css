@@ -1,0 +1,31 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0px;
+}
+.page_container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* padding: 12px; */
+}
+.FAQS_card {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  align-items: center;
+  width: 77%;
+  height: 87%;
+}
+.FAQS_card_heading {
+  color: #cb8805;
+}
+.ulOrderFaqsList {
+  width: 90%;
+}
